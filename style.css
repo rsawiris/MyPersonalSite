@@ -65,13 +65,29 @@ body {
     background-color: cornflowerblue;
 }
 
-h1 {
+.header h1 {
     text-align: left;
     padding-left: 25px;
     font-size: 50px;
+}
+
+.header img {
+    width: 700px;
+    height: auto;
+    float: right;
+    padding-right: 25px;
 }
 
 p.info {
     padding-left: 25px;
     font-size: 40px;
 }
+
+h1.quote {
+    padding-left: 25px;
+    padding-right: 850px;
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+}
+
