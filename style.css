@@ -1,3 +1,5 @@
+/******************* Nav related CSS *******************/
+
 nav{
     border: 1px;
     border-style: solid;
@@ -6,9 +8,32 @@ nav{
     background-color: rgb(111, 30, 133);  
 }
 
+#LeftText {
+    display: inline-block;
+    color: white;
+    font-size: x-large;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+}
+
 #NavLinks{
-    font-size: xx-large;
-    text-align: center;
+    font-size: x-large;
+    display: inline-block;
+    float: right;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    padding: 25px;
 }
 
 #NavLinks a:link{
@@ -22,12 +47,31 @@ nav{
 }
 
 #NavLinks a:hover{
-    color: yellow;
+    color: cornflowerblue;
     text-decoration: none;
 }
 
 #NavLinks a:active{
-    color: yellow;
+    color: black;
     text-decoration: none;
+    border-bottom: 5px;
+    border-style: dotted;
+    border-color: black;
 }
 
+/******************* Body related CSS *******************/
+
+body {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    text-align: left;
+    padding-left: 25px;
+    font-size: 50px;
+}
+
+p.info {
+    padding-left: 25px;
+    font-size: 40px;
+}
