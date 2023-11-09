@@ -1,0 +1,36 @@
+nav{
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    background-color: rgb(111, 30, 133);  
+}
+
+#NavLinks{
+    font-size: xx-large;
+    text-align: center;
+}
+
+#NavLinks a:link{
+    color: white;
+    text-decoration: none;
+}
+
+#NavLinks a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+#NavLinks a:hover{
+    color: yellow;
+    text-decoration: none;
+}
+
+#NavLinks a:active{
+    color: yellow;
+    text-decoration: none;
+}
+
+#LeftText nav{
+    text-align: left;
+}
