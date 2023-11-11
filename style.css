@@ -171,3 +171,22 @@ h1.portfolio {
     padding-left: 25px;
     font-size: 50px;
 }
+
+h2.FBA {
+    padding-left: 25px;
+    font-size: xx-large;
+    color: black;
+}
+
+img.Ecom1 {
+    width: 500px;
+    float: right;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+img.Ecom2 {
+    width: 411px;
+    float: right;
+    padding-left: 25px;
+}
