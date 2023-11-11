@@ -83,14 +83,13 @@ p.info {
     font-size: 40px;
 }
 
-h1.quote {
+p.quote {
     padding-left: 25px;
     padding-right: 850px;
     text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
 }
-
-
-
 
 footer {
     background-color: rgb(111, 30, 133);
@@ -109,4 +108,13 @@ footer {
     padding-left: 25px;
     font-size: 50px;
     text-align: center;
+}
+
+hr {
+    border-color: rgb(111, 30, 133);
+}
+
+h2 {
+    padding-left: 25px;
+    font-size: xx-large;
 }
