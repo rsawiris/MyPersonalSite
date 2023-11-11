@@ -110,6 +110,8 @@ footer {
     text-align: center;
 }
 
+/******************* About Pg related CSS *******************/
+
 hr {
     border-color: rgb(111, 30, 133);
 }
@@ -117,4 +119,40 @@ hr {
 h2 {
     padding-left: 25px;
     font-size: xx-large;
+    color: black;
+}
+
+p.text {
+    padding-left: 25px;
+    font-size: 40px;
+}
+
+img.weights {
+    float: right;
+    width: 650px;
+    padding-right: 25px;
+    padding-top: 35px;
+}
+
+img.music {
+    width: 650px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 50px;
+    float: left;
+}
+
+h2.two {
+    padding-right: 25px;
+    font-size: xx-large;
+    color: black;
+    text-align: right;
+    float: right;
+}
+
+p.text2 {
+    padding-right: 25px;
+    font-size: 40px;
+    text-align: left;
+    padding-top: 60px;
 }
