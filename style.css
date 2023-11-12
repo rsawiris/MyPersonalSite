@@ -125,6 +125,7 @@ h2 {
 p.text {
     padding-left: 25px;
     font-size: 40px;
+    padding-right: 25px;
 }
 
 img.weights {
@@ -132,6 +133,7 @@ img.weights {
     width: 650px;
     padding-right: 25px;
     padding-top: 35px;
+    padding-left: 25px;
 }
 
 img.music {
@@ -189,4 +191,9 @@ img.Ecom2 {
     width: 411px;
     float: right;
     padding-left: 25px;
+}
+
+img.Ecom3 {
+    width: 100px;
+    float: right;
 }
