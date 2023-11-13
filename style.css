@@ -197,3 +197,58 @@ img.Ecom3 {
     width: 100px;
     float: right;
 }
+
+img.ig {
+    width: 500px;
+    float: right;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+a:link.FBA {
+    color: white;
+}
+
+a:visited.FBA {
+    color: white;
+}
+
+a:hover.FBA {
+    color: #FF9900
+}
+
+a:active.FBA {
+    color: black;
+    border-bottom: 5px;
+    border-style: dotted;
+    border-color: black;
+}
+
+a:link.insta {
+    color: white;
+    float: right;
+    padding-right: 75px;
+}
+
+a:visited.insta {
+    color: white;
+}
+
+a:hover.insta {
+    color: #E1306C;
+}
+
+a:active.insta {
+    color: #405DE6;
+    border-bottom: 5px;
+    border-style: dotted;
+    border-color: black;
+}
+
+h2.third {
+    text-align: center;
+    padding-left: 25px;
+    font-size: xx-large;
+}
