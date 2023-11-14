@@ -255,3 +255,53 @@ h2.third {
     padding-left: 25px;
     font-size: xx-large;
 }
+
+/******************* Contact Pg related CSS *******************/
+
+form {
+    font-size: x-large;
+    color: black;
+    font-weight: bold;
+    padding: 25px;
+    display: inline-block;
+    margin-left: 550px;
+}
+
+input.reg {
+    width: 565px;
+    height: 30px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    font-size: 18px;
+}
+
+textarea {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    font-size: 18px;
+}
+
+
+label {
+    font-size: xx-large;
+}
+
+button {
+    border: black 2px solid;
+    background-color: rgb(111, 30, 133);
+    color: cornflowerblue;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+button:hover {
+    border: black 2px solid;
+    background-color: white;
+    color: cornflowerblue;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+
